@@ -20,5 +20,3 @@ function signup() {
         })
 }
 
-git remote add origin https://github.com/sophiakhan/w6d2-learn-express.git
-git push -u origin master
