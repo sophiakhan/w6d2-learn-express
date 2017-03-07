@@ -1,7 +1,6 @@
 getTodos()
 
 function getTodos() {
-    // var listItem = document.querySelector('#todos')
 
     fetch('http://localhost:3000/todos', {
         method: 'GET',
